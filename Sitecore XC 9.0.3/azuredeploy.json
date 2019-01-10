@@ -12,7 +12,7 @@
         "location": null,
         "sitecoreSKU": null,
         "sitecoreAdminPassword": null,
-        "solrConnectionString": null,
+        "solrConnectionString": "",
 
         "sqlServerName": null,
         "sqlServerLogin": null,
