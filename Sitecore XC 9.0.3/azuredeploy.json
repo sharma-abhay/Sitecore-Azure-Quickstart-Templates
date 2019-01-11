@@ -42,7 +42,7 @@
         "templateLinkAccessToken": "",
         "commerceConnectMsDeployPackageUrl": null,
         "commerceEngineAzureMsDeployPackageUrl": null,
-        "commerceEngineSolrCloudMsDeployPackageUrl": "",
+        "commerceEngineSolrCloudMsDeployPackageUrl": " ",
         "commerceEngineConnectCdAzureMsDeployPackageUrl": null,
         "commerceEngineConnectCmAzureMsDeployPackageUrl": null,
         "commerceEngineConnectCdSolrMsDeployPackageUrl": " ",
